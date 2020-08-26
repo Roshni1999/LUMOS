@@ -1,2 +1,3 @@
 # LUMOS
-For the potterheads! :)
+
+A webpage collection of Harry Potter quotes! :)
