@@ -540,6 +540,10 @@ nav a:hover::before {
 	color: #aaa;
 	text-decoration: none;
 }
+.iframe {
+  border:0
+
+}
 
 
 /* REPONSIVE */
